@@ -1491,4 +1491,4 @@ Never:
 
 **Document Version:** 1.0  
 **Last Updated:** February 2026  
-**Maintained by:** [Your Organization]
+**Author:** Ensemble mountain Team
