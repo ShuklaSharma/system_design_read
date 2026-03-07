@@ -859,4 +859,4 @@ A: Count tokens: fixed system prompt (~400 tokens) + query + (per step: ~200 out
 **Document Version:** 1.0  
 **Last Updated:** February 2026  
 **Author:** Ensemble mountain Team
-*← [Few-Shot Prompting Guide](./few-shot-pattern-guide.md)*
+*← [Few-Shot Prompting Guide](02-few-shot-pattern-guide.md)*
