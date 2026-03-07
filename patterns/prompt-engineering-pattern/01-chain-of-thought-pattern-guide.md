@@ -706,4 +706,4 @@ A: Define a structured reasoning schema (Problem → Known → Steps → Verify 
 **Document Version:** 1.0  
 **Last Updated:** February 2026  
 **Author:** Ensemble mountain Team
-*Next: [Few-Shot Prompting Guide](./few-shot-pattern-guide.md) →*
+*Next: [Few-Shot Prompting Guide](02-few-shot-pattern-guide.md) →*

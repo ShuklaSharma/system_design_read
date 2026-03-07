@@ -647,4 +647,4 @@ A: Few-shot embeds examples directly in the prompt to teach format/behaviour. RA
 **Document Version:** 1.0  
 **Last Updated:** February 2026  
 **Author:** Ensemble mountain Team
-*← [Chain-of-Thought Guide](01-chain-of-thought-pattern-guide.md) | Next: [ReAct Guide](./react-pattern-guide.md) →*
+*← [Chain-of-Thought Guide](01-chain-of-thought-pattern-guide.md) | Next: [ReAct Guide](03-react-pattern-guide.md) →*
